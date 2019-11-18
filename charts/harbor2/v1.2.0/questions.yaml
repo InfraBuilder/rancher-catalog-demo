@@ -12,6 +12,11 @@ questions:
   type: certificate
   label: certificate
   group: "Global Options"
+- variable: varcertificates
+  description: "certificates"
+  type: certificates
+  label: certificates
+  group: "Global Options"
 - variable: varenum
   description: "enum"
   type: enum
